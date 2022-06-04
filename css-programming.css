@@ -1,0 +1,14 @@
+.face {
+  color: darkblue;
+  /* transform: rotateX(60deg); X軸方向に60度回転させる(今回はJavaScriptで行うのでコメントアウト) */
+}
+/* 補足
+   transform: 変形させる
+   rotate(ローテート): 回転させる
+   degree: (角度の)度
+   deg: degreeの略
+*/
+
+.back {
+  color: lightgray;
+}
